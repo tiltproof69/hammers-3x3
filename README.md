@@ -2,7 +2,7 @@
 
 <p align="center">
 Hammers that break a whole <b>3x3</b> with every swing, plus 7 hammer-only enchantments.<br>
-<b>Forge</b> · <b>NeoForge</b> · <b>Fabric</b> &nbsp;|&nbsp; Minecraft 1.12.2 all the way up to 26.1.2
+<b>Forge</b> · <b>NeoForge</b> · <b>Fabric</b> &nbsp;|&nbsp; Minecraft 1.12.2 all the way up to 26.3
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@ Just have a question? [Discord](https://discord.gg/tP9PZvUNjW) is the fastest wa
 
 | Loader | Minecraft |
 |---|---|
-| **NeoForge** | 26.1.2 · 1.21.8 · 1.21.4 · 1.21.1 · 1.20.6 · 1.20.4 |
-| **Fabric** | 26.1.2 · 1.21.8 · 1.20.1 (needs Fabric API) |
+| **NeoForge** | 26.3 · 26.2 · 26.1.2 · 1.21.8 · 1.21.4 · 1.21.1 · 1.20.6 · 1.20.4 |
+| **Fabric** | 26.3 · 26.1.2 · 1.21.8 · 1.20.1 (needs Fabric API) |
 | **Forge** | 1.20.1 · 1.19.4 · 1.19.2 · 1.18.2 · 1.17.1 · 1.16.5 · 1.12.2 |
 
 Older versions get bug fixes when it's possible, but new features land on the newest versions first.

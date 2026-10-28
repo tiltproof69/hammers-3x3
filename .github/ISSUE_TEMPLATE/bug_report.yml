@@ -13,6 +13,8 @@ body:
     attributes:
       label: Minecraft version
       options:
+        - "26.3"
+        - "26.2"
         - "26.1.2"
         - "1.21.8"
         - "1.21.4"
